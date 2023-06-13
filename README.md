@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priya Srivastava</h1>
 <h3 align="center">Machine Learning and Deep Learning Enthusiast</h3>
-<img align="right" alt="coding" width=400 src="C:\Users\papa1\Desktop\New folder\pic.jpeg">
+<img src="C:\Users\papa1\Desktop\New folder\pic.jpg" align="right" width=400  alt="coding" >
 - 🌱 I’m currently learning **Image Processing, Natural Language Processing (NLP), Generative AI**
 
 - 📫 How to reach me **priyak4243@gmail.com**
