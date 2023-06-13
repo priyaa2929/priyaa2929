@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Image Processing, Natural Language Processing (NLP), Generative AI**
 
-- 🤝 I'm open to collaborating on any full stack Machine Learning and deep learning projects **any full stack Machine Learning and deep learning projects**
+- 🤝 I'm open to collaborating on **any full stack Machine Learning and deep learning projects**
 
 - 📫 How to reach me **priyak4243@gmail.com**
 
